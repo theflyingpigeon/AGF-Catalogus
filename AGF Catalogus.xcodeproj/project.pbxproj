@@ -13,6 +13,16 @@
 		506150CC23C3B6CB0044674F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 506150CB23C3B6CB0044674F /* Assets.xcassets */; };
 		506150CF23C3B6CB0044674F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 506150CE23C3B6CB0044674F /* Preview Assets.xcassets */; };
 		506150D223C3B6CB0044674F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 506150D023C3B6CB0044674F /* LaunchScreen.storyboard */; };
+		506150DC23C3B6EE0044674F /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506150DA23C3B6EE0044674F /* Data.swift */; };
+		506150DD23C3B6EE0044674F /* Agf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506150DB23C3B6EE0044674F /* Agf.swift */; };
+		5061511123C3B70E0044674F /* AGFData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5061510423C3B70E0044674F /* AGFData.json */; };
+		5061511523C3B71D0044674F /* AgfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061511423C3B71D0044674F /* AgfList.swift */; };
+		5061511723C3B7270044674F /* AgfDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061511623C3B7270044674F /* AgfDetail.swift */; };
+		5061511C23C3B73B0044674F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061511923C3B73B0044674F /* MapView.swift */; };
+		5061511D23C3B73B0044674F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061511A23C3B73B0044674F /* CircleImage.swift */; };
+		5061511E23C3B73B0044674F /* AgfRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061511B23C3B73B0044674F /* AgfRow.swift */; };
+		5061512023C3BA4F0044674F /* Bloemkool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5061511F23C3BA4F0044674F /* Bloemkool.jpg */; };
+		5061512223C3BA550044674F /* Brocolli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5061512123C3BA550044674F /* Brocolli.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		506150CE23C3B6CB0044674F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		506150D123C3B6CB0044674F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		506150D323C3B6CB0044674F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		506150DA23C3B6EE0044674F /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		506150DB23C3B6EE0044674F /* Agf.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Agf.swift; sourceTree = "<group>"; };
+		5061510423C3B70E0044674F /* AGFData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AGFData.json; sourceTree = "<group>"; };
+		5061511423C3B71D0044674F /* AgfList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AgfList.swift; path = ../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/AgfList.swift; sourceTree = "<group>"; };
+		5061511623C3B7270044674F /* AgfDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AgfDetail.swift; path = ../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/AgfDetail.swift; sourceTree = "<group>"; };
+		5061511923C3B73B0044674F /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		5061511A23C3B73B0044674F /* CircleImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		5061511B23C3B73B0044674F /* AgfRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AgfRow.swift; sourceTree = "<group>"; };
+		5061511F23C3BA4F0044674F /* Bloemkool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bloemkool.jpg; path = ../../../../../Bloemkool.jpg; sourceTree = "<group>"; };
+		5061512123C3BA550044674F /* Brocolli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Brocolli.jpg; path = ../../../../../Brocolli.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +79,11 @@
 				506150C523C3B6CA0044674F /* AppDelegate.swift */,
 				506150C723C3B6CA0044674F /* SceneDelegate.swift */,
 				506150C923C3B6CA0044674F /* ContentView.swift */,
+				5061511423C3B71D0044674F /* AgfList.swift */,
+				5061511623C3B7270044674F /* AgfDetail.swift */,
+				5061511823C3B73B0044674F /* Supporting Views */,
+				506150F923C3B70E0044674F /* Resources */,
+				506150D923C3B6EE0044674F /* Models */,
 				506150CB23C3B6CB0044674F /* Assets.xcassets */,
 				506150D023C3B6CB0044674F /* LaunchScreen.storyboard */,
 				506150D323C3B6CB0044674F /* Info.plist */,
@@ -73,6 +98,38 @@
 				506150CE23C3B6CB0044674F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		506150D923C3B6EE0044674F /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				506150DA23C3B6EE0044674F /* Data.swift */,
+				506150DB23C3B6EE0044674F /* Agf.swift */,
+			);
+			name = Models;
+			path = ../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Models;
+			sourceTree = "<group>";
+		};
+		506150F923C3B70E0044674F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5061510423C3B70E0044674F /* AGFData.json */,
+				5061511F23C3BA4F0044674F /* Bloemkool.jpg */,
+				5061512123C3BA550044674F /* Brocolli.jpg */,
+			);
+			name = Resources;
+			path = ../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Resources;
+			sourceTree = "<group>";
+		};
+		5061511823C3B73B0044674F /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				5061511923C3B73B0044674F /* MapView.swift */,
+				5061511A23C3B73B0044674F /* CircleImage.swift */,
+				5061511B23C3B73B0044674F /* AgfRow.swift */,
+			);
+			name = "Supporting Views";
+			path = "../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Supporting Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,7 +190,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5061511123C3B70E0044674F /* AGFData.json in Resources */,
+				5061512223C3BA550044674F /* Brocolli.jpg in Resources */,
 				506150D223C3B6CB0044674F /* LaunchScreen.storyboard in Resources */,
+				5061512023C3BA4F0044674F /* Bloemkool.jpg in Resources */,
 				506150CF23C3B6CB0044674F /* Preview Assets.xcassets in Resources */,
 				506150CC23C3B6CB0044674F /* Assets.xcassets in Resources */,
 			);
@@ -147,8 +207,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				506150C623C3B6CA0044674F /* AppDelegate.swift in Sources */,
+				5061511C23C3B73B0044674F /* MapView.swift in Sources */,
 				506150C823C3B6CA0044674F /* SceneDelegate.swift in Sources */,
+				5061511E23C3B73B0044674F /* AgfRow.swift in Sources */,
 				506150CA23C3B6CA0044674F /* ContentView.swift in Sources */,
+				506150DD23C3B6EE0044674F /* Agf.swift in Sources */,
+				5061511D23C3B73B0044674F /* CircleImage.swift in Sources */,
+				5061511523C3B71D0044674F /* AgfList.swift in Sources */,
+				5061511723C3B7270044674F /* AgfDetail.swift in Sources */,
+				506150DC23C3B6EE0044674F /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
