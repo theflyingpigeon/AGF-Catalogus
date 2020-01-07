@@ -23,6 +23,7 @@
 		5061511E23C3B73B0044674F /* AgfRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061511B23C3B73B0044674F /* AgfRow.swift */; };
 		5061512023C3BA4F0044674F /* Bloemkool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5061511F23C3BA4F0044674F /* Bloemkool.jpg */; };
 		5061512223C3BA550044674F /* Brocolli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5061512123C3BA550044674F /* Brocolli.jpg */; };
+		5061512C23C5189E0044674F /* Spinazie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5061512B23C5189D0044674F /* Spinazie.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		5061511B23C3B73B0044674F /* AgfRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AgfRow.swift; sourceTree = "<group>"; };
 		5061511F23C3BA4F0044674F /* Bloemkool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bloemkool.jpg; path = ../../../../../Bloemkool.jpg; sourceTree = "<group>"; };
 		5061512123C3BA550044674F /* Brocolli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Brocolli.jpg; path = ../../../../../Brocolli.jpg; sourceTree = "<group>"; };
+		5061512B23C5189D0044674F /* Spinazie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Spinazie.jpg; path = ../../../../../Spinazie.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				5061510423C3B70E0044674F /* AGFData.json */,
 				5061511F23C3BA4F0044674F /* Bloemkool.jpg */,
 				5061512123C3BA550044674F /* Brocolli.jpg */,
+				5061512B23C5189D0044674F /* Spinazie.jpg */,
 			);
 			name = Resources;
 			path = ../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Resources;
@@ -194,6 +197,7 @@
 				5061512223C3BA550044674F /* Brocolli.jpg in Resources */,
 				506150D223C3B6CB0044674F /* LaunchScreen.storyboard in Resources */,
 				5061512023C3BA4F0044674F /* Bloemkool.jpg in Resources */,
+				5061512C23C5189E0044674F /* Spinazie.jpg in Resources */,
 				506150CF23C3B6CB0044674F /* Preview Assets.xcassets in Resources */,
 				506150CC23C3B6CB0044674F /* Assets.xcassets in Resources */,
 			);
