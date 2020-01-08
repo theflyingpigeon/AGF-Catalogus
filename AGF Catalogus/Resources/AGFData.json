@@ -9,7 +9,7 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
-        "imageName": "Bloemkool",
+        "imageName": "bloemkool",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Beschrijfing":"Beschrijfing"
@@ -24,7 +24,7 @@
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "imageName": "Brocolli",
+        "imageName": "brocolli",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Beschrijfing":"Beschrijfing"
@@ -51,12 +51,12 @@
         "category": "Groente",
         "soort": "knol",
         "hsoort":"Groente",
-        "id": 1003,
+        "id": 1004,
         "coordinates": {
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "imageName": "brocolli",
+        "imageName": "radijs",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Beschrijfing": "Wat vindt melanie hiervan"
