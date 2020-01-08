@@ -44,5 +44,21 @@
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Beschrijfing": "Wat vindt melanie hiervan"
+    },
+    
+    {
+        "name": "radijs",
+        "category": "Groente",
+        "soort": "knol",
+        "hsoort":"Groente",
+        "id": 1003,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "brocolli",
+        "harvest": "Heel het jaar",
+        "bewaaradvies": "Gekoeld",
+        "Beschrijfing": "Wat vindt melanie hiervan"
     }
 ]
