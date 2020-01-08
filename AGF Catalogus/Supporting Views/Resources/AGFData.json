@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Bloemkool",
+        "category": "Groente",
+        "soort": "Kool",
+        "hsoort":"Groente",
+        "id": 1001,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "Bloemkool",
+        "harvest": "Heel het jaar",
+        "bewaaradvies": "Gekoeld",
+        "Beschrijfing":"Beschrijfing"
+    },
+    {
+        "name": "Brocolli",
+        "category": "Groente",
+        "soort": "Kool",
+        "hsoort":"Groente",
+        "id": 1002,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "Brocolli",
+        "harvest": "Heel het jaar",
+        "bewaaradvies": "Gekoeld",
+        "Beschrijfing":"Beschrijfing"
+    },
+    
+    {
+        "name": "Spinazie",
+        "category": "Groente",
+        "soort": "bladgroente",
+        "hsoort":"Groente",
+        "id": 1003,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "Spinazie",
+        "harvest": "Heel het jaar",
+        "bewaaradvies": "Gekoeld",
+        "Beschrijfing": "Wat vindt melanie hiervan"
+    }
+]
