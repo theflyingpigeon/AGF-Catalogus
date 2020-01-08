@@ -26,6 +26,7 @@ struct AGF: Hashable, Codable, Identifiable {
     var harvest: String
     var bewaaradvies: String
     var Beschrijfing: String
+    var Smaak: String
 
     enum Category: String, CaseIterable, Codable, Hashable {
         case Aardappels = "Aardappels"

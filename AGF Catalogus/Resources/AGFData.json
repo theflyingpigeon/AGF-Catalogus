@@ -27,6 +27,7 @@
         "imageName": "brocolli",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
+        "Smaak":"Unknown"
         "Beschrijfing":"Beschrijfing"
     },
     
@@ -43,6 +44,7 @@
         "imageName": "Spinazie",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
+        "Smaak":"Unknown"
         "Beschrijfing": "Wat vindt melanie hiervan"
     },
     
@@ -53,12 +55,13 @@
         "hsoort":"Groente",
         "id": 1004,
         "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
+            "longitude": 51.997115,
+            "latitude": 4.333516
         },
         "imageName": "radijs",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
+        "Smaak": "Licht pittig",
         "Beschrijfing": "Wat vindt melanie hiervan"
     }
 ]

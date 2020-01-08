@@ -40,6 +40,11 @@ struct AgfDetail: View {
                     Text("Beschrijfing")
                     Text(agf.Beschrijfing)
                 }
+                
+                HStack(alignment: .top) {
+                    Text("Smaak OMschrijving")
+                    Text(agf.Smaak)
+                }
             }
             .padding()
 
