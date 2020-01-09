@@ -22,9 +22,9 @@
 		5061516F23C5CB250044674F /* AGFData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5061516123C5CB250044674F /* AGFData.json */; };
 		5061517523C5CB300044674F /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061517323C5CB300044674F /* Data.swift */; };
 		5061517623C5CB300044674F /* Agf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5061517423C5CB300044674F /* Agf.swift */; };
-		894F4BA823C5E2B000441B3D /* brocolli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 894F4BA723C5E2AF00441B3D /* brocolli.jpg */; };
+		5061517823C7A4C00044674F /* Brocolli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5061517723C7A4C00044674F /* Brocolli.jpg */; };
+		5061517A23C7A4CD0044674F /* Bloemkool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5061517923C7A4CD0044674F /* Bloemkool.jpg */; };
 		894F4BAA23C5E2B700441B3D /* radijs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 894F4BA923C5E2B700441B3D /* radijs.jpg */; };
-		894F4BAC23C5E2C000441B3D /* bloemkool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 894F4BAB23C5E2C000441B3D /* bloemkool.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,9 +45,9 @@
 		5061516123C5CB250044674F /* AGFData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AGFData.json; sourceTree = "<group>"; };
 		5061517323C5CB300044674F /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		5061517423C5CB300044674F /* Agf.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Agf.swift; sourceTree = "<group>"; };
-		894F4BA723C5E2AF00441B3D /* brocolli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brocolli.jpg; sourceTree = "<group>"; };
+		5061517723C7A4C00044674F /* Brocolli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Brocolli.jpg; path = ../../../../Downloads/Brocolli.jpg; sourceTree = "<group>"; };
+		5061517923C7A4CD0044674F /* Bloemkool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bloemkool.jpg; path = ../../../../Downloads/Bloemkool.jpg; sourceTree = "<group>"; };
 		894F4BA923C5E2B700441B3D /* radijs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radijs.jpg; sourceTree = "<group>"; };
-		894F4BAB23C5E2C000441B3D /* bloemkool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bloemkool.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,9 +118,9 @@
 			isa = PBXGroup;
 			children = (
 				5061515623C5CB250044674F /* Spinazie.jpg */,
-				894F4BA723C5E2AF00441B3D /* brocolli.jpg */,
+				5061517923C7A4CD0044674F /* Bloemkool.jpg */,
+				5061517723C7A4C00044674F /* Brocolli.jpg */,
 				894F4BA923C5E2B700441B3D /* radijs.jpg */,
-				894F4BAB23C5E2C000441B3D /* bloemkool.jpg */,
 				5061516123C5CB250044674F /* AGFData.json */,
 			);
 			path = Resources;
@@ -193,14 +193,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				894F4BAC23C5E2C000441B3D /* bloemkool.jpg in Resources */,
 				506150D223C3B6CB0044674F /* LaunchScreen.storyboard in Resources */,
+				5061517A23C7A4CD0044674F /* Bloemkool.jpg in Resources */,
 				5061516F23C5CB250044674F /* AGFData.json in Resources */,
 				506150CF23C3B6CB0044674F /* Preview Assets.xcassets in Resources */,
+				5061517823C7A4C00044674F /* Brocolli.jpg in Resources */,
 				5061516423C5CB250044674F /* Spinazie.jpg in Resources */,
 				506150CC23C3B6CB0044674F /* Assets.xcassets in Resources */,
 				894F4BAA23C5E2B700441B3D /* radijs.jpg in Resources */,
-				894F4BA823C5E2B000441B3D /* brocolli.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

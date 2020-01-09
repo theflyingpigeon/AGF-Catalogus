@@ -9,9 +9,10 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
-        "imageName": "bloemkool",
+        "imageName": "Bloemkool",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
+        "Smaak":"Unknown",
         "Beschrijfing":"Beschrijfing"
     },
     {
@@ -24,10 +25,10 @@
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "imageName": "brocolli",
+        "imageName": "Brocolli",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
-        "Smaak":"Unknown"
+        "Smaak":"Unknown",
         "Beschrijfing":"Beschrijfing"
     },
     
@@ -44,12 +45,12 @@
         "imageName": "Spinazie",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
-        "Smaak":"Unknown"
+        "Smaak":"Unknown",
         "Beschrijfing": "Wat vindt melanie hiervan"
     },
     
     {
-        "name": "radijs",
+        "name": "Radijs",
         "category": "Groente",
         "soort": "knol",
         "hsoort":"Groente",
@@ -62,6 +63,6 @@
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Smaak": "Licht pittig",
-        "Beschrijfing": "Wat vindt melanie hiervan"
+        "Beschrijfing": "Speciaal voor rick"
     }
 ]

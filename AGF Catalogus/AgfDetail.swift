@@ -42,7 +42,7 @@ struct AgfDetail: View {
                 }
                 
                 HStack(alignment: .top) {
-                    Text("Smaak OMschrijving")
+                    Text("Smaak Omschrijving")
                     Text(agf.Smaak)
                 }
             }
