@@ -28,8 +28,8 @@
         "imageName": "brocolli",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
-        "Smaak":"Unknown",
-        "Beschrijfing":"Beschrijfing"
+        "Smaak": "Unknown",
+        "Beschrijfing": "Beschrijfing"
     },
     
     {
@@ -50,11 +50,28 @@
     },
     
     {
+        "name": "Paprika",
+        "category": "Groente",
+        "soort": "Unsub",
+        "hsoort":"Groente",
+        "id": 1004,
+        "coordinates": {
+            "longitude": 51.997115,
+            "latitude": 4.333516
+        },
+        "imageName": "paprika",
+        "harvest": "Heel het jaar",
+        "bewaaradvies": "niet gekoeld",
+        "Smaak":  "bitter zoet",
+        "Beschrijfing": "Speciaal voor Courteney"
+    },
+    
+    {
         "name": "Radijs",
         "category": "Groente",
         "soort": "knol",
         "hsoort":"Groente",
-        "id": 1004,
+        "id": 1005,
         "coordinates": {
             "longitude": 51.997115,
             "latitude": 4.333516
@@ -64,5 +81,40 @@
         "bewaaradvies": "Gekoeld",
         "Smaak": "Licht pittig",
         "Beschrijfing": "Speciaal voor rick"
-    }
+    },
+    
+    {
+        "name": "Rock chives",
+        "category": "Groente",
+        "soort": "kruiden",
+        "hsoort":"Groente",
+        "id": 1006,
+        "coordinates": {
+            "longitude": 51.997115,
+            "latitude": 4.333516
+        },
+        "imageName": "rockChives",
+        "harvest": "Heel het jaar",
+        "bewaaradvies": "Gekoeld",
+        "Smaak": "zoutig, zoet, umanmi en bitter",
+        "Beschrijfing": "Lekker op brood of in een salade."
+    },
+    
+    {
+           "name": "Alfalfa",
+           "category": "Groente",
+           "soort": "kruiden",
+           "hsoort":"Groente",
+           "id": 1007,
+           "coordinates": {
+               "longitude": 51.997115,
+               "latitude": 4.333516
+           },
+           "imageName": "alfalfa",
+           "harvest": "Heel het jaar",
+           "bewaaradvies": "Gekoeld",
+           "Smaak": "unknown",
+           "Beschrijfing": "Lekker op brood of in een salade."
+       },
+    
 ]

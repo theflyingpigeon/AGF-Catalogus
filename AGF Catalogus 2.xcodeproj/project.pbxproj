@@ -25,6 +25,9 @@
 		EE6383A4243C998200171F73 /* brocolli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE6383A1243C998200171F73 /* brocolli.jpg */; };
 		EE6383A5243C998200171F73 /* radijs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE6383A2243C998200171F73 /* radijs.jpg */; };
 		EE6383A6243C998200171F73 /* bloemkool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE6383A3243C998200171F73 /* bloemkool.jpg */; };
+		EEA29689243D04E2004B643A /* paprika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEA29688243D04E2004B643A /* paprika.jpg */; };
+		EEA2968B243D0669004B643A /* rockChives.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEA2968A243D0669004B643A /* rockChives.jpg */; };
+		EEA2968D243D0903004B643A /* alfalfa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEA2968C243D0903004B643A /* alfalfa.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +51,9 @@
 		EE6383A1243C998200171F73 /* brocolli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brocolli.jpg; sourceTree = "<group>"; };
 		EE6383A2243C998200171F73 /* radijs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radijs.jpg; sourceTree = "<group>"; };
 		EE6383A3243C998200171F73 /* bloemkool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bloemkool.jpg; sourceTree = "<group>"; };
+		EEA29688243D04E2004B643A /* paprika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paprika.jpg; sourceTree = "<group>"; };
+		EEA2968A243D0669004B643A /* rockChives.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rockChives.jpg; sourceTree = "<group>"; };
+		EEA2968C243D0903004B643A /* alfalfa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = alfalfa.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +125,10 @@
 			children = (
 				5061515623C5CB250044674F /* Spinazie.jpg */,
 				EE6383A3243C998200171F73 /* bloemkool.jpg */,
+				EEA29688243D04E2004B643A /* paprika.jpg */,
 				EE6383A1243C998200171F73 /* brocolli.jpg */,
+				EEA2968C243D0903004B643A /* alfalfa.jpg */,
+				EEA2968A243D0669004B643A /* rockChives.jpg */,
 				EE6383A2243C998200171F73 /* radijs.jpg */,
 				5061516123C5CB250044674F /* AGFData.json */,
 			);
@@ -193,8 +202,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEA2968B243D0669004B643A /* rockChives.jpg in Resources */,
 				EE6383A6243C998200171F73 /* bloemkool.jpg in Resources */,
+				EEA29689243D04E2004B643A /* paprika.jpg in Resources */,
 				506150D223C3B6CB0044674F /* LaunchScreen.storyboard in Resources */,
+				EEA2968D243D0903004B643A /* alfalfa.jpg in Resources */,
 				5061516F23C5CB250044674F /* AGFData.json in Resources */,
 				506150CF23C3B6CB0044674F /* Preview Assets.xcassets in Resources */,
 				5061516423C5CB250044674F /* Spinazie.jpg in Resources */,
