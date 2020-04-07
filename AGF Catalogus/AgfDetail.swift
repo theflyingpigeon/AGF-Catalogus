@@ -37,12 +37,12 @@ struct AgfDetail: View {
                     Text(agf.harvest)
             }
                 HStack(alignment: .top){
-                    Text("Beschrijfing")
+                    Text("Beschrijving")
                     Text(agf.Beschrijfing)
                 }
                 
                 HStack(alignment: .top) {
-                    Text("Smaak Omschrijving")
+                    Text("Smaak: ")
                     Text(agf.Smaak)
                 }
             }

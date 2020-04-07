@@ -9,7 +9,7 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
-        /*"imageName": "Bloemkool",*/
+        "imageName": "bloemkool",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Smaak":"Unknown",
@@ -25,7 +25,7 @@
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "imageName": "Brocolli",
+        "imageName": "brocolli",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Smaak":"Unknown",
