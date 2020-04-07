@@ -9,7 +9,7 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
-        "imageName": "Bloemkool",
+        /*"imageName": "Bloemkool",*/
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
         "Smaak":"Unknown",
@@ -45,7 +45,7 @@
         "imageName": "Spinazie",
         "harvest": "Heel het jaar",
         "bewaaradvies": "Gekoeld",
-        "Smaak":"Unknown",
+        "Smaak":"Lichtelijk bitter",
         "Beschrijfing": "Wat vindt melanie hiervan"
     },
     
